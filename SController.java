@@ -1,4 +1,4 @@
-package com.example.StudentRegistration.Controller;
+    package com.example.StudentRegistration.Controller;
 
 import java.util.List;
 
