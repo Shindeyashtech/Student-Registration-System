@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 
 import com.example.StudentRegistration.Domain.Student;
 @Repository
-public interface SRepository extends JpaRepository<Student, Integer> {
+   public interface SRepository extends JpaRepository<Student, Integer> {
 
 	 
 }
